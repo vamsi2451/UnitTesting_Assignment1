@@ -8,7 +8,7 @@ public class Main {
         System.out.println(str);
     }
     public static void main(String[] args) {
-        char[] str = "hello world".toCharArray();
+        char[] str = "vamsi".toCharArray();
         toUppercase(str);
     }
 }
